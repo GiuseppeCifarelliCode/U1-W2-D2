@@ -189,6 +189,5 @@ console.log("Array from 1 to 10", array)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-array.pop()
-array.push(100)
+array.splice( 9, 1, 100)
 console.log("Array with the last element changed", array)
