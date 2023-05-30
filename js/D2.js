@@ -68,7 +68,7 @@ if (totalShoppingCart > 50){
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-totalShoppingCart = (totalShoppingCart * 20)/100 
+totalShoppingCart = (totalShoppingCart * 80)/100 
 if (totalShoppingCart > 50){
   console.log("Your total payment is", totalShoppingCart)
 } else {
